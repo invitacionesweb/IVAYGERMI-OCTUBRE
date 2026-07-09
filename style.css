@@ -322,7 +322,7 @@ nav {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 40px;
+    padding: 40px 0;
     display: flex;
 }
 .novios2 h3 {
@@ -336,7 +336,7 @@ nav {
     margin: 20px 0 0 0;
 }
 .playlist {
-    width: auto;
+    width: 60%;
     padding: auto;
     margin: auto;   
     display: flex;
@@ -838,6 +838,9 @@ footer p {
         gap:10px;
     }
     .novios {
+        height: 50%;
+    }
+    .novios2 {
         height: 50%;
     }
 
