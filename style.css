@@ -367,6 +367,16 @@ nav {
     width: 160px;
 }
 
+.icono10 {
+  position: absolute; /* Se posiciona respecto al más cercano "relative" */
+  top: -70px;
+  left: -40px;
+  z-index: 10; /* Asegura que esté encima */
+  padding: 5px;
+}
+.icono10 img {
+    width: 200px;
+}
 
 /*TIMELINE*/
 
