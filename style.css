@@ -73,6 +73,7 @@ body {
 /* TODO AUIDO */
 .audiodiv {
     position: fixed;
+    z-index: 100;
     bottom: 20px;
     right: 20px;
     background-color: var(--color-1);
